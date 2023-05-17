@@ -1,0 +1,15 @@
+C:\Users\Vlad\source\repos\Essential17\Essential17\bin\Debug\net6.0\EssentialEx2.exe
+C:\Users\Vlad\source\repos\Essential17\Essential17\bin\Debug\net6.0\EssentialEx2.deps.json
+C:\Users\Vlad\source\repos\Essential17\Essential17\bin\Debug\net6.0\EssentialEx2.runtimeconfig.json
+C:\Users\Vlad\source\repos\Essential17\Essential17\bin\Debug\net6.0\EssentialEx2.dll
+C:\Users\Vlad\source\repos\Essential17\Essential17\bin\Debug\net6.0\EssentialEx2.pdb
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\EssentialEx2.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\EssentialEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\EssentialEx2.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\EssentialEx2.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\EssentialEx2.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\EssentialEx2.dll
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\refint\EssentialEx2.dll
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\EssentialEx2.pdb
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\EssentialEx2.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\Essential17\Essential17\obj\Debug\net6.0\ref\EssentialEx2.dll
